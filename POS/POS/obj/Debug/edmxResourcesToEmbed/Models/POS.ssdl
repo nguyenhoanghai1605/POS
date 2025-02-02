@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="POSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DanhSachKCV">
+    <Key>
+      <PropertyRef Name="STT" />
+    </Key>
+    <Property Name="STT" Type="int" Nullable="false" />
+    <Property Name="KCV_Type" Type="nvarchar" MaxLength="50" />
+    <Property Name="KCV" Type="nvarchar" MaxLength="50" />
+    <Property Name="KCV_Name" Type="nvarchar" MaxLength="100" />
+    <Property Name="SIZE" Type="nvarchar" MaxLength="10" />
+    <Property Name="Thong_So_KCV" Type="nvarchar" MaxLength="200" />
+    <Property Name="MEASURE" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="MEASURE_Details" Type="nvarchar" MaxLength="50" />
+    <Property Name="TLSP" Type="decimal" Precision="5" Scale="2" />
+    <Property Name="SL" Type="int" />
+    <Property Name="Retail_Price" Type="nvarchar" MaxLength="200" />
+    <Property Name="Discount" Type="nvarchar" MaxLength="10" />
+    <Property Name="POS_Discount" Type="nvarchar" MaxLength="10" />
+    <Property Name="Note" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TenKH" Type="nvarchar" MaxLength="50" />
+    <Property Name="DienThoai" Type="nvarchar" MaxLength="50" />
+    <Property Name="DiaChi" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="PhieuQuaTang">
+    <Key>
+      <PropertyRef Name="MaPhieuQuaTang" />
+    </Key>
+    <Property Name="MaPhieuQuaTang" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="MaKH" Type="int" />
+  </EntityType>
+  <EntityContainer Name="POSModelStoreContainer">
+    <EntitySet Name="DanhSachKCV" EntityType="Self.DanhSachKCV" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KhachHang" EntityType="Self.KhachHang" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhieuQuaTang" EntityType="Self.PhieuQuaTang" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

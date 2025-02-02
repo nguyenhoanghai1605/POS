@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "ImportKCV";
+}
+
+<h2>ImportKCV</h2>
+
+
+@using (Html.BeginForm("ImportExcelKCV", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <label>Chọn file Excel:</label>
+    <input type="file" name="excelFile" accept=".xlsx" required />
+    <br />
+    <br />
+    <input type="submit" value="Import" class="btn btn-primary" />
+}
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-info">@ViewBag.Message</div>
+}

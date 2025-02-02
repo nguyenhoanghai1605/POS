@@ -1,0 +1,180 @@
+﻿@{
+    ViewBag.Title = "Phiếu quà tặng cho khách hàng";
+}
+<h2>Đăng ký phiếu quà tặng cho khách hàng</h2>
+<h3>@ViewBag.Message</h3>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <div class="container form-horizontal">
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Phiếu quà tặng:</label>
+            <div class="col-sm-10">
+                <input id="PhieuQuaTang" class="form-control" name="txtName" type="text" placeholder="Nhập phiếu quà tặng" />
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="col-sm-2 control-label">Khách hàng:</label>
+            <div class="col-sm-10">
+                <select id="KhachHang" class="form-control">
+                    <option value=""> - Chọn khách hàng -</option>
+                    @if (ViewBag.KhachHang != null)
+                    {
+                        foreach (var item in ViewBag.KhachHang)
+                        {
+                            @*<option value="@item.MaKH"> @(item.TenKH + " " + item.DienThoai + " " + item.DiaChi)</option>*@
+                            <option value="@item.MaKH"> @(item.TenKH + " " + item.DienThoai)</option>
+                        }
+                    }
+                </select>
+                <br />
+                <div class="form-horizontal">
+                    <button class="open-button btn btn-default" onclick="XuLyDangKy()">Đăng ký</button>
+                    <button class="open-button btn btn-default" onclick="XuLyXemThongTin()">Xem thông tin</button>
+                </div>
+            </div>
+        </div>
+        <div id="infor" style="margin-top: 5px; margin-bottom: 5px">
+        </div>
+    </div>
+
+    <!--Modal-->
+
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header" style="background-color: #3399FF;">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    @*<h4 class="modal-title">Thông tin khách hàng</h4>*@
+                    <b class="modal-title" style="color: #FFFFFF;">Thông tin khách hàng</b>
+                </div>
+                <div id="ThongTinKhachHang" class="modal-body">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <script>
+        function XuLyTaoDuongDan(pathname) {
+            return window.location.protocol + "//" + window.location.host + "/" + pathname;
+        }
+        function XuLyXemThongTin() {
+            $('#ThongTinKhachHang').empty();
+            XemThongTin(_iXuLyXemThongTin);
+        }
+        function XemThongTin(callback) {
+            url = XuLyTaoDuongDan('Home/XemThongTin');
+            var JsonInput = {
+                MaPhieuQuaTang: $('#PhieuQuaTang').val()
+            };
+            $.ajax({
+                type: 'POST',
+                url: url,
+                contentType: "application/json; charset=utf-8",
+                dataType: 'JSON',
+                data: JSON.stringify(JsonInput),
+                success: function (data) {
+                    if (callback && typeof (callback) === "function") {
+                        callback(data);
+                    }
+                },
+                error: function (xhr, status, error) {
+                    //+ xhr.responseText
+                    result = {
+                        KetQua: 0,
+                        ThongBao: 'Lỗi!',
+                        DuLieu: null
+                    };
+                    if (callback && typeof (callback) === "function") {
+                        callback(result);
+                    }
+                }
+            });
+        }
+        function _iXuLyXemThongTin(data) {
+            if (data != null && data.KetQua == 1) {
+                //alert(data.DuLieu.TenKH);
+
+                var s = '<b> Tên khách hàng: </b>' + data.DuLieu.TenKH + '</br>'
+                    + '<b> Điện thoại: </b>' + data.DuLieu.DienThoai + '</br>'
+                    + '<b> Địa chỉ:  </b>' + data.DuLieu.DiaChi + '</br>';
+                $('#ThongTinKhachHang').append(s);
+                $('#myModal').modal();
+            } else {
+                var s = '<div>' + data.ThongBao + '</div>';
+                $('#ThongTinKhachHang').append(s);
+                $('#myModal').modal();
+            }
+        }
+        //Đăng ký
+        function XuLyDangKy() {
+            $('#ThongTinKhachHang').empty();
+            DangKy(_iXuLyDangKy);
+        }
+        function DangKy(callback) {
+            url = XuLyTaoDuongDan('Home/DangKy');
+            var JsonInput = {
+                MaPhieuQuaTang: $('#PhieuQuaTang').val(),
+                MaKH: $('#KhachHang').val()
+            };
+            $.ajax({
+                type: 'POST',
+                url: url,
+                contentType: "application/json; charset=utf-8",
+                dataType: 'JSON',
+                data: JSON.stringify(JsonInput),
+                success: function (data) {
+                    if (callback && typeof (callback) === "function") {
+                        callback(data);
+                    }
+                },
+                error: function (xhr, status, error) {
+                    //+ xhr.responseText
+                    result = {
+                        KetQua: 0,
+                        ThongBao: 'Lỗi!',
+                        DuLieu: null
+                    };
+                    if (callback && typeof (callback) === "function") {
+                        callback(result);
+                    }
+                }
+            });
+        }
+        function _iXuLyDangKy(data) {
+            if (data != null && data.KetQua == 1) {
+                //alert(data.DuLieu.TenKH);
+
+                var s = '<div style="color:blue;">Đăng ký thành công!</div>' + '</br>'
+                    + '<center><b>Thông tin khách hàng đăng ký phiếu quà tặng</b></center>' +'</br>'
+                    + '<b> Tên khách hàng: </b>' + data.DuLieu.TenKH + '</br>'
+                    + '<b> Điện thoại: </b>' + data.DuLieu.DienThoai + '</br>'
+                    + '<b> Địa chỉ: </b>' + data.DuLieu.DiaChi + '</br>';
+                $('#ThongTinKhachHang').append(s);
+                $('#myModal').modal();
+            } else {
+                var s = '<div>' + data.ThongBao + '</div>';
+                $('#ThongTinKhachHang').append(s);
+                $('#myModal').modal();
+            }
+        }
+    </script>
+</body >
+</html >

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="POSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenKH" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DienThoai" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="PhieuQuaTang">
+    <Key>
+      <PropertyRef Name="MaPhieuQuaTang" />
+    </Key>
+    <Property Name="MaPhieuQuaTang" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="MaKH" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="POS_Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="KhachHangs" EntityType="Self.KhachHang" />
+    <EntitySet Name="PhieuQuaTangs" EntityType="Self.PhieuQuaTang" />
+    <EntitySet Name="DanhSachKCVs" EntityType="POSModel.DanhSachKCV" />
+  </EntityContainer>
+  <EntityType Name="DanhSachKCV">
+    <Key>
+      <PropertyRef Name="STT" />
+    </Key>
+    <Property Name="STT" Type="Int32" Nullable="false" />
+    <Property Name="KCV_Type" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KCV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="KCV_Name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="SIZE" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Thong_So_KCV" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="MEASURE" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="MEASURE_Details" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="TLSP" Type="Decimal" Precision="5" Scale="2" />
+    <Property Name="SL" Type="Int32" />
+    <Property Name="Retail_Price" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="Discount" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="POS_Discount" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="Note" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,268 @@
+F:\POS\POS\POS\bin\POS.dll.config
+F:\POS\POS\POS\bin\POS.dll
+F:\POS\POS\POS\bin\POS.pdb
+F:\POS\POS\POS\bin\roslyn\csc.exe
+F:\POS\POS\POS\bin\roslyn\csc.exe.config
+F:\POS\POS\POS\bin\roslyn\csc.rsp
+F:\POS\POS\POS\bin\roslyn\csi.exe
+F:\POS\POS\POS\bin\roslyn\csi.rsp
+F:\POS\POS\POS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\POS\POS\POS\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\POS\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\POS\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\POS\POS\POS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\POS\POS\POS\bin\roslyn\System.AppContext.dll
+F:\POS\POS\POS\bin\roslyn\System.Collections.Immutable.dll
+F:\POS\POS\POS\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\POS\POS\POS\bin\roslyn\System.IO.FileSystem.dll
+F:\POS\POS\POS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\POS\POS\POS\bin\roslyn\System.Reflection.Metadata.dll
+F:\POS\POS\POS\bin\roslyn\vbc.exe
+F:\POS\POS\POS\bin\roslyn\vbc.exe.config
+F:\POS\POS\POS\bin\roslyn\vbc.rsp
+F:\POS\POS\POS\bin\roslyn\VBCSCompiler.exe
+F:\POS\POS\POS\bin\roslyn\VBCSCompiler.exe.config
+F:\POS\POS\POS\bin\Antlr3.Runtime.dll
+F:\POS\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\POS\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\POS\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+F:\POS\POS\POS\bin\Newtonsoft.Json.dll
+F:\POS\POS\POS\bin\System.Diagnostics.DiagnosticSource.dll
+F:\POS\POS\POS\bin\System.Web.Helpers.dll
+F:\POS\POS\POS\bin\System.Web.Mvc.dll
+F:\POS\POS\POS\bin\System.Web.Optimization.dll
+F:\POS\POS\POS\bin\System.Web.Razor.dll
+F:\POS\POS\POS\bin\System.Web.WebPages.Deployment.dll
+F:\POS\POS\POS\bin\System.Web.WebPages.dll
+F:\POS\POS\POS\bin\System.Web.WebPages.Razor.dll
+F:\POS\POS\POS\bin\WebGrease.dll
+F:\POS\POS\POS\bin\System.Web.Helpers.xml
+F:\POS\POS\POS\bin\System.Web.Mvc.xml
+F:\POS\POS\POS\bin\System.Web.Optimization.xml
+F:\POS\POS\POS\bin\System.Web.Razor.xml
+F:\POS\POS\POS\bin\System.Web.WebPages.xml
+F:\POS\POS\POS\bin\System.Web.WebPages.Deployment.xml
+F:\POS\POS\POS\bin\System.Web.WebPages.Razor.xml
+F:\POS\POS\POS\bin\Newtonsoft.Json.xml
+F:\POS\POS\POS\bin\Antlr3.Runtime.pdb
+F:\POS\POS\POS\bin\System.Diagnostics.DiagnosticSource.xml
+F:\POS\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\POS\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\POS\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+F:\POS\POS\POS\obj\Debug\POS.csproj.CopyComplete
+F:\POS\POS\POS\obj\Debug\POS.dll
+F:\POS\POS\POS\obj\Debug\POS.pdb
+F:\POS\POS\POS\bin\EntityFramework.dll
+F:\POS\POS\POS\bin\EntityFramework.xml
+F:\POS\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\POS.dll.config
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\POS.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\POS.pdb
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\csc.exe
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\csc.exe.config
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\csc.rsp
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\csi.exe
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\csi.rsp
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\vbc.exe
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\vbc.exe.config
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\vbc.rsp
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\Antlr3.Runtime.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\EntityFramework.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Buffers.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Memory.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.Helpers.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.Mvc.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.Optimization.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.Razor.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.WebPages.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\WebGrease.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\EntityFramework.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Buffers.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Memory.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.Helpers.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.Mvc.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.Optimization.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.Razor.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.WebPages.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\Antlr3.Runtime.pdb
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\obj\Debug\POS.dll
+C:\Users\nguye\OneDrive - CONG TY CO PHAN TGKC\Data Chung\Desktop\4. Phan Mem DEV\POS\POS\POS\obj\Debug\POS.pdb
+D:\Full C# Cty TGKC\POS\POS\bin\POS.dll.config
+D:\Full C# Cty TGKC\POS\POS\bin\POS.dll
+D:\Full C# Cty TGKC\POS\POS\bin\POS.pdb
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\csc.exe
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\csc.exe.config
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\csc.rsp
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\csi.exe
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\csi.rsp
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\System.AppContext.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\System.Collections.Immutable.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\System.IO.FileSystem.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\System.Reflection.Metadata.dll
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\vbc.exe
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\vbc.exe.config
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\vbc.rsp
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\VBCSCompiler.exe
+D:\Full C# Cty TGKC\POS\POS\bin\roslyn\VBCSCompiler.exe.config
+D:\Full C# Cty TGKC\POS\POS\bin\Antlr3.Runtime.dll
+D:\Full C# Cty TGKC\POS\POS\bin\EntityFramework.dll
+D:\Full C# Cty TGKC\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Full C# Cty TGKC\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Full C# Cty TGKC\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+D:\Full C# Cty TGKC\POS\POS\bin\Newtonsoft.Json.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Buffers.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Memory.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.Helpers.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.Mvc.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.Optimization.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.Razor.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.WebPages.Deployment.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.WebPages.dll
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.WebPages.Razor.dll
+D:\Full C# Cty TGKC\POS\POS\bin\WebGrease.dll
+D:\Full C# Cty TGKC\POS\POS\bin\EntityFramework.xml
+D:\Full C# Cty TGKC\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Buffers.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Memory.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.Helpers.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.Mvc.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.Optimization.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.Razor.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.WebPages.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.WebPages.Deployment.xml
+D:\Full C# Cty TGKC\POS\POS\bin\System.Web.WebPages.Razor.xml
+D:\Full C# Cty TGKC\POS\POS\bin\Newtonsoft.Json.xml
+D:\Full C# Cty TGKC\POS\POS\bin\Antlr3.Runtime.pdb
+D:\Full C# Cty TGKC\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Full C# Cty TGKC\POS\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+D:\Full C# Cty TGKC\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+D:\Full C# Cty TGKC\POS\POS\obj\Debug\POS.csproj.CopyComplete
+D:\Full C# Cty TGKC\POS\POS\obj\Debug\POS.dll
+D:\Full C# Cty TGKC\POS\POS\obj\Debug\POS.pdb
+C:\Users\nguye\Desktop\POS\POS\POS\bin\POS.dll.config
+C:\Users\nguye\Desktop\POS\POS\POS\bin\POS.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\POS.pdb
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\csc.exe
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\csc.exe.config
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\csc.rsp
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\csi.exe
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\csi.rsp
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\System.AppContext.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\vbc.exe
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\vbc.exe.config
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\vbc.rsp
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\VBCSCompiler.exe
+C:\Users\nguye\Desktop\POS\POS\POS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nguye\Desktop\POS\POS\POS\bin\Antlr3.Runtime.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\EntityFramework.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\Newtonsoft.Json.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Buffers.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Memory.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.Helpers.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.Mvc.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.Optimization.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.Razor.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.WebPages.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.WebPages.Razor.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\WebGrease.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\EntityFramework.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Buffers.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Memory.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.Helpers.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.Mvc.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.Optimization.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.Razor.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.WebPages.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\System.Web.WebPages.Razor.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\Newtonsoft.Json.xml
+C:\Users\nguye\Desktop\POS\POS\POS\bin\Antlr3.Runtime.pdb
+C:\Users\nguye\Desktop\POS\POS\POS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nguye\Desktop\POS\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\POS\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\nguye\Desktop\POS\POS\POS\obj\Debug\POS.dll
+C:\Users\nguye\Desktop\POS\POS\POS\obj\Debug\POS.pdb
+C:\Users\nguye\Desktop\POS\POS\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\nguye\Desktop\POS\POS\POS\bin\EPPlus.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\EPPlus.Interfaces.dll
+C:\Users\nguye\Desktop\POS\POS\POS\bin\EPPlus.xml

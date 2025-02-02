@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="POSModelStoreContainer" CdmEntityContainer="POS_Entities">
+    <EntitySetMapping Name="KhachHangs">
+      <EntityTypeMapping TypeName="POSModel.KhachHang">
+        <MappingFragment StoreEntitySet="KhachHang">
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+          <ScalarProperty Name="TenKH" ColumnName="TenKH" />
+          <ScalarProperty Name="DienThoai" ColumnName="DienThoai" />
+          <ScalarProperty Name="DiaChi" ColumnName="DiaChi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhieuQuaTangs">
+      <EntityTypeMapping TypeName="POSModel.PhieuQuaTang">
+        <MappingFragment StoreEntitySet="PhieuQuaTang">
+          <ScalarProperty Name="MaPhieuQuaTang" ColumnName="MaPhieuQuaTang" />
+          <ScalarProperty Name="MaKH" ColumnName="MaKH" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DanhSachKCVs">
+      <EntityTypeMapping TypeName="POSModel.DanhSachKCV">
+        <MappingFragment StoreEntitySet="DanhSachKCV">
+          <ScalarProperty Name="Note" ColumnName="Note" />
+          <ScalarProperty Name="POS_Discount" ColumnName="POS_Discount" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="Retail_Price" ColumnName="Retail_Price" />
+          <ScalarProperty Name="SL" ColumnName="SL" />
+          <ScalarProperty Name="TLSP" ColumnName="TLSP" />
+          <ScalarProperty Name="MEASURE_Details" ColumnName="MEASURE_Details" />
+          <ScalarProperty Name="MEASURE" ColumnName="MEASURE" />
+          <ScalarProperty Name="Thong_So_KCV" ColumnName="Thong_So_KCV" />
+          <ScalarProperty Name="SIZE" ColumnName="SIZE" />
+          <ScalarProperty Name="KCV_Name" ColumnName="KCV_Name" />
+          <ScalarProperty Name="KCV" ColumnName="KCV" />
+          <ScalarProperty Name="KCV_Type" ColumnName="KCV_Type" />
+          <ScalarProperty Name="STT" ColumnName="STT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
