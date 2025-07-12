@@ -116,7 +116,6 @@ namespace POS.Controllers
                     query = query.Where(x => x.MEASURE.HasValue && x.MEASURE.Value == measureVal);
                 }
 
-
                 if (!string.IsNullOrEmpty(thongso))
                     query = query.Where(x => x.Thong_So_KCV.Contains(thongso));
 
@@ -180,7 +179,7 @@ namespace POS.Controllers
                                 flag = true;
                                 continue;
                             }
-                            
+                        
                         }
                         if (!flag)
                         {
@@ -306,6 +305,7 @@ namespace POS.Controllers
             return View();
         }
 
+        // Import excel KCV
         [HttpPost]
         public ActionResult ImportExcelKCV(HttpPostedFileBase excelFile)
         {
