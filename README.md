@@ -1,5 +1,5 @@
-**C# ASP.Net MVC5
-SQL Server**
+## C# ASP.Net MVC5
+## SQL Server
 
 ## Look up the list of diamonds
 ![image](https://github.com/user-attachments/assets/0aed921b-4d8c-4cb9-931c-9a0e3f33255a)
@@ -16,3 +16,5 @@ SQL Server**
 
 ## Download
 * https://github.com/nguyenhoanghai1605/POS.git
+
+**By:** Hai.NH
