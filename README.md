@@ -13,7 +13,7 @@
 ## Software copyright by Nguyen Hoang Hai
 * Info: https://github.com/nguyenhoanghai1605
 
-## Download
+## Download:
 * https://github.com/nguyenhoanghai1605/POS.git
 
 
