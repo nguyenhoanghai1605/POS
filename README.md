@@ -1,7 +1,7 @@
 **C# ASP.Net MVC5
 SQL Server**
 
-## Look up the list of diamonds
+## Look up the list of diamonds:
 ![image](https://github.com/user-attachments/assets/0aed921b-4d8c-4cb9-931c-9a0e3f33255a)
 ![image](https://github.com/user-attachments/assets/52995761-fc99-456d-b79d-dea6e9af2720)
 ![image](https://github.com/user-attachments/assets/69a22022-a303-4abd-a2c2-87354f8ea7ab)
